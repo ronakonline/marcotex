@@ -52,8 +52,8 @@
                             <div class="header_right d-flex align-items-center">
                                 <div class="short_contact_list">
                                     <ul>
-                                        <li><a href="#"> <i class="fa fa-envelope"></i> info@docmed.com</a></li>
-                                        <li><a href="#"> <i class="fa fa-phone"></i> 1601-609 6780</a></li>
+                                        <li><a href="#"> <i class="fa fa-envelope"></i> admin@marcotex.com</a></li>
+                                        <li><a href="#"> <i class="fa fa-phone"></i> +91 22 2266 4808</a></li>
                                     </ul>
                                 </div>
 
@@ -81,20 +81,10 @@
                                     <nav>
                                         <ul id="navigation">
                                             <li><a href="index.html">home</a></li>
-                                            <li><a href="service.html">Services</a></li>
                                             <li><a href="About.html">about</a></li>
-                                            <li><a href="#">pages <i class="ti-angle-down"></i></a>
-                                                <ul class="submenu">
-                                                    <li><a href="service_details.html">service details</a></li>
-                                                    <li><a href="elements.html">elements</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="#">blog <i class="ti-angle-down"></i></a>
-                                                <ul class="submenu">
-                                                    <li><a href="blog.html">blog</a></li>
-                                                    <li><a href="single-blog.html">single-blog</a></li>
-                                                </ul>
-                                            </li>
+                                            <li><a href="contact.html">Products</a></li>
+                                            <li><a href="contact.html">Services</a></li>
+                                            <li><a href="contact.html">Projects</a></li>
                                             <li><a href="contact.html">Contact</a></li>
                                         </ul>
                                     </nav>
@@ -129,9 +119,8 @@
                     <div class="col-xl-8">
                         <div class="slider_text text-center justify-content-center">
                             <p>For Personal & Business</p>
-                            <h3>Global Logistic Service
-                                For Business</h3>
-                            <a class="boxed-btn3" href="service.html">Our Services</a>
+                            <h3>Complete HVAC Solution Under one roof</h3>
+                            <a class="boxed-btn3" href="service.html">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -148,9 +137,8 @@
                         <div class="icon">
                             <img src={{asset("assets/img/svg_icon/airplane.png")}} alt="">
                         </div>
-                        <h3>Transportation</h3>
-                        <p>Esteem spirit temper too say adieus who direct esteem. It look estee luckily or picture
-                            placing drawing.</p>
+                        <h3>Our Vision</h3>
+                        <p>Extend and expand our quality services to above sectors in India in association with other companies located globally. Bring new Technology to the above sectors, with whom we have established very good business retaliations due to our track record of quality services.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6">
@@ -158,9 +146,8 @@
                         <div class="icon">
                             <img src={{asset("assets/img/svg_icon/live.png")}} alt="">
                         </div>
-                        <h3>Live Monitoring</h3>
-                        <p>Esteem spirit temper too say adieus who direct esteem. It look estee luckily or picture
-                            placing drawing.</p>
+                        <h3>Our Mission</h3>
+                        <p>Establishing contacts with reputed manufacturers of drilling & marine equipment for Oil & Gas and Shipping applications. Explore the possibilities of longtime association and developing Business / procuring orders from various Govt. / Private organization from India. Obtain the approvals of your Products and introduction of your company to the end user in the above sectors.</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-6">
@@ -168,9 +155,17 @@
                         <div class="icon">
                             <img src={{asset("assets/img/svg_icon/world.png")}} alt="">
                         </div>
-                        <h3>Worldwide Service</h3>
-                        <p>Esteem spirit temper too say adieus who direct esteem. It look estee luckily or picture
-                            placing drawing.</p>
+                        <h3>Our Values</h3>
+                        <p>
+
+                            Team Work<br>
+
+                            Serve Customers First.<br>
+
+                            Diversity<br>
+
+                            Strategic<br>
+                            </p>
                     </div>
                 </div>
             </div>
@@ -193,38 +188,38 @@
                     <div class="service_active owl-carousel">
                         <div class="single_service">
                             <div class="thumb">
-                                <img src={{asset("assets/img/service/1.png") }} alt="">
+                                <img src={{asset("assets/img/service/HVAC.jpg") }} alt="">
                             </div>
                             <div class="service_info">
-                                <h3><a href="service_details.html">Ocean Freight</a></h3>
-                                <p>Esteem spirit temper too say adieus who direct esteem.</p>
+                                <h3><a href="service_details.html">HVAC</a></h3>
+                                <p>We are expert in Design and implementation of a HVAC  system is to help maintain good indoor air quality through adequate ventilation with filtration and provide thermal comfort.</p>
                             </div>
                         </div>
                         <div class="single_service">
                             <div class="thumb">
-                                <img src={{asset("assets/img/service/2.png")}} alt="">
+                                <img src={{asset("assets/img/service/elec.jpg")}} alt="">
                             </div>
                             <div class="service_info">
-                                <h3><a href="service_details.html">Land Transport</a></h3>
-                                <p>Esteem spirit temper too say adieus who direct esteem.</p>
+                                <h3><a href="service_details.html">Electrical</a></h3>
+                                <p>Expert in the execution of all types of electrical work related to HVAC and on rigs and platform.</p>
                             </div>
                         </div>
                         <div class="single_service">
                             <div class="thumb">
-                                <img src={{asset("assets/img/service/3.png")}} alt="">
+                                <img src={{asset("assets/img/service/sp.jpg")}} alt="">
                             </div>
                             <div class="service_info">
-                                <h3><a href="service_details.html">Air Freight</a></h3>
-                                <p>Esteem spirit temper too say adieus who direct esteem.</p>
+                                <h3><a href="service_details.html">Compressors & Spares</a></h3>
+                                <p>We have various makes and various models of the open type reciprocating compressors with their spares.</p>
                             </div>
                         </div>
                         <div class="single_service">
                             <div class="thumb">
-                                <img src={{asset("assets/img/service/1.png")}} alt="">
+                                <img src={{asset("assets/img/service/offshore-rig-200x133.jpg")}} alt="">
                             </div>
                             <div class="service_info">
-                                <h3><a href="service_details.html">Ocean Freight</a></h3>
-                                <p>Esteem spirit temper too say adieus who direct esteem.</p>
+                                <h3><a href="service_details.html">Rig & Platform Work</a></h3>
+                                <p>Repairing/overhauling & servicing on turnkey projects basis by providing reliable and technical workmanship to ONGC, INDIAN NAVY.</p>
                             </div>
                         </div>
                     </div>
@@ -265,10 +260,21 @@
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-6">
                         <div class="features_info">
-                            <h3>Why Choose Us?</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit sed do eiusmod tempor incididunt.
+                            <h3>Who We Are</h3>
+                            <p>
+
+                                MARCOTEX is in the field of Marine, OIL, and GAS field as a manufacturer and service provider since 40 years providing total solutions for HVAC and other Engineering related problems to sectors like Defense, Marine/Shipping and Oil /Gas field etc. including indigenization of Machine components and spares.  The company started in 1972, re-named and re-structured in 1997 as Marcotex Engineers and Consultants.
+
+                                We are the authorized dealer for light duty, medium duty and heavy duty reciprocating compressor with compressor spare parts of different makes and models like SMC-65, SMC – 100, Daikin, Carrier, Voltas, Bitzer, Ingersoll Rand (IR).
+
+                                We have been in the service providing facility in total solutions for HVAC related problems to sectors like Defense, Marine/Shipping and Oil / Gas field etc.
+
+                                We undertake various turnkey projects with Output guarantee through design features, Superior quality Equipment, and top arrangement inputs during erection & commission O & M of the projects.
+
+                                Marcotex have established a factory at Vasai, in the western suburb of Mumbai to produce Open type reciprocating compressors which is designed to suite the marine application.
+
                             </p>
-                            <ul>
+                            {{-- <ul>
                                 <li> Apartments frequently or motionless. </li>
                                 <li> Duis aute irure dolor in reprehenderit in voluptate. </li>
                                 <li> Voluptatem quia voluptas sit aspernatur.</li>
@@ -276,7 +282,7 @@
 
                             <div class="about_btn">
                                 <a class="boxed-btn3-line" href="about.html">About Us</a>
-                            </div>
+                            </div> --}}
                         </div>
                     </div>
                 </div>
@@ -489,15 +495,16 @@
                 <div class="col-xl-3 col-md-3">
                     <div class="single_location">
                         <h3> <img src={{asset("assets/img/icon/address.svg")}} alt=""> Location</h3>
-                        <p>600/D, Kings road, Green lane
-                            NewYork-2563</p>
+                        <p>Marcotex Engineers & Consultants.
+                            25-A, Podar Chambers, S.A. Brelvi Road, Fort, Mumbai – 400001. India.</p>
                     </div>
                 </div>
                 <div class="col-xl-3 col-md-3">
                     <div class="single_location">
                         <h3> <img src={{asset("assets/img/icon/support.svg")}} alt=""> Location</h3>
-                        <p>+10 267 3563 4562 <br>
-                            support@logistico.com</p>
+                        <p>+91 22 2266 4808<br>
+                            +91 22 2264 1379 <br>
+                            admin@marcotex.com</p>
                     </div>
                 </div>
             </div>
@@ -509,7 +516,7 @@
 
     <!-- footer start -->
     <footer class="footer">
-        <div class="footer_top">
+        {{-- <div class="footer_top">
             <div class="container">
                 <div class="row">
                     <div class="col-xl-3 col-md-6 col-lg-3">
@@ -569,7 +576,7 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> --}}
         <div class="copy-right_text">
             <div class="container">
                 <div class="footer_border"></div>
@@ -580,9 +587,7 @@
                             Copyright &copy;
                             <script>
                                 document.write(new Date().getFullYear());
-                            </script> All rights reserved | This template is made with <i
-                                class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com"
-                                target="_blank">Colorlib</a>
+                            </script> © 2018 Marcotex - Engineers & Consultants. All Rights Reserved.
                             <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                         </p>
                     </div>
