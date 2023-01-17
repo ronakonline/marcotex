@@ -44,7 +44,7 @@
                         <div class="col-xl-4 col-lg-4">
                             <div class="logo">
                                 <a href="index.html">
-                                    <img src={{ asset("assets/img/logo.png") }} alt="">
+                                    <img src={{ asset("assets/img/logo.png") }} alt="" height="80" width="100%">
                                 </a>
                             </div>
                         </div>
@@ -118,15 +118,18 @@
                 <div class="row align-items-center justify-content-center">
                     <div class="col-xl-8">
                         <div class="slider_text text-center justify-content-center">
-                            <p>For Personal & Business</p>
-                            <h3>Complete HVAC Solution Under one roof</h3>
+                            <p>Complete HVAC Solution Under one roof</p>
+                            <h3>For Personal & Business</h3>
+
                             <a class="boxed-btn3" href="service.html">Know More</a>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+
     </div>
+
     <!-- slider_area_end -->
 
     <div class="transportaion_area">
@@ -481,7 +484,7 @@
                     <div class="location_left">
                         <div class="logo">
                             <a href="index.html">
-                                <img src={{asset("assets/img/logo.png")}} alt="">
+                                <img src={{asset("assets/img/logo.png")}} alt="" height="80" width="50%">
                             </a>
                         </div>
                         <ul>
